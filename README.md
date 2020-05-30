@@ -16,3 +16,7 @@ https://www.color-hex.com/color-palette/38440
 #b8860b	
 #cd950c	
 #eead0e
+
+
+Royal Blue #4169e1
+Gold       #FFD700
