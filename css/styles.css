@@ -6619,7 +6619,7 @@ a.bg-primary:focus,
 a.bg-primary:hover,
 button.bg-primary:focus,
 button.bg-primary:hover {
-	background-color: #148f77!important
+	background-color: #FFD700!important
 }
 
 .bg-secondary {
@@ -6634,14 +6634,14 @@ button.bg-secondary:hover {
 }
 
 .bg-success {
-	background-color: #28a745!important
+	background-color: #FFD700!important
 }
 
 a.bg-success:focus,
 a.bg-success:hover,
 button.bg-success:focus,
 button.bg-success:hover {
-	background-color: #1e7e34!important
+	background-color: #FFD700!important
 }
 
 .bg-info {
