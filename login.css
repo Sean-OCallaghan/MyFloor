@@ -1,0 +1,77 @@
+.loginbox{
+  border-radius: 30px;
+  width: 320px;
+  height: 420px;
+  background:    #FFD700;
+  color: #fff;
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%,-50%);
+  box-sizing: border-box;
+  padding: 70px 30px;
+}
+
+h1{
+  margin: 0;
+  padding: 0 0 20px;
+  text-align: center;
+  font-size: 22px;
+}
+
+.loginbox p{
+  margin: 0;
+  padding: 0;
+  font-weight: bold;
+}
+
+.loginbox input{
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+button{
+ background-color: #4169e1;
+ color: #fff;
+ 
+
+}
+
+
+.button{
+  color: #fff;
+}
+input{
+  outline: none;
+  display: block;
+  background: #4169e1;
+  width: 100%;
+  border: 0;
+  border-radius: 10px;
+  box-sizing: border-box;
+  padding: 12px 20px;
+  color: #fff;
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: 500;
+  line-height: inherit;
+  -webkit-transition: 0.3s ease;
+  transition: 0.3s ease;
+  
+  
+}
+
+::placeholder{
+  color: #fff;
+}
+
+
+body{
+ margin: 0;
+ padding: 0;
+ background-color: #4169e1;
+ background-size: cover;
+ background-position: center;
+ font-family: sans-serif;
+
+}
