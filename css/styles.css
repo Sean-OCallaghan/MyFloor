@@ -10099,8 +10099,8 @@ a.text-dark:hover {
 
 @media (min-width:992px) {
 	#mainNav {
-		padding-top: 1.5rem;
-		padding-bottom: 1.5rem;
+		padding-top: .3rem;
+		padding-bottom: .3rem;
 		transition: padding-top .3s, padding-bottom .3s
 	}
 	#mainNav .navbar-brand {
