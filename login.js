@@ -1,6 +1,6 @@
 var firebaseConfig = {
   apiKey: "AIzaSyBipQvSsn9GB2kcmMO2dN5trnHdtBPAC1Q",
-  authDoma in: "myfloor-521c5.firebaseapp.com",
+  authDomain: "myfloor-521c5.firebaseapp.com",
   databaseURL: "https://myfloor-521c5.firebaseio.com",
   projectId: "myfloor-521c5",
   storageBucket: "myfloor-521c5.appspot.com",

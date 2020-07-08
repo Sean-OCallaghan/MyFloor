@@ -45,7 +45,8 @@ html {
 	font-family: sans-serif;
 	line-height: 1.15;
 	-webkit-text-size-adjust: 100%;
-	-webkit-tap-highlight-color: rgba(0, 0, 0, 0)
+	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+	width: 100%;
 }
 
 article,
@@ -6612,7 +6613,9 @@ a.close.disabled {
 }
 
 .bg-primary {
-	background-color: #4169e1!important
+	background-color: #4169e1!important;
+	
+
 }
 
 a.bg-primary:focus,
@@ -9978,7 +9981,8 @@ a.text-dark:hover {
 }
 
 .page-section {
-	padding: 6rem 0
+	padding: 6rem 0;
+	
 }
 
 .page-section .page-section-heading {
@@ -10128,7 +10132,8 @@ a.text-dark:hover {
 
 .masthead {
 	padding-top: calc(6rem + 74px);
-	padding-bottom: 6rem
+	padding-bottom: 6rem;
+	
 }
 
 .masthead .masthead-heading {
@@ -10285,7 +10290,8 @@ form .row:first-child .floating-label-form-group {
 }
 
 .pre-wrap {
-	white-space: pre-wrap
+	white-space: pre-wrap;
+	padding-left: 50px;
 }
 
 .icon-contact {
